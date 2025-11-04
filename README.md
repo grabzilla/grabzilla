@@ -1,4 +1,4 @@
-<h1 align="right">Namaste 🙏 — Hi, I’m Gab</h1>
+<h1 align="right">YO 🙏 — Hi, I’m Gab</h1>
 
 ###
 
